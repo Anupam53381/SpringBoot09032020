@@ -1,0 +1,25 @@
+ 1 Created Maven Project-> pom.xml
+ 
+ 2 spring-webmvc
+ 
+ 3 web.xml -> DispatcherServlet
+ 
+ 4 dispatcher-servlet.xml
+ 
+ 5 context:component-scan 
+ 
+ 6 Controller
+ 
+ 7 logical name of the view->DispatcherServlet
+ 
+ 8 hello.jsp
+ 
+ 
+ Container :-
+ 
+ .war
+ 
+ Tomcat -> download,install,configure
+ 
+  
+ 
