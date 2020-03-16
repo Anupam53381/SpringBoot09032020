@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.zensar</groupId>
-	<artifactId>product-management-with-mysql</artifactId>
+	<artifactId>product-management-with-mysql-yml</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
